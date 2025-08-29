@@ -2,3 +2,7 @@
 java full stack
 data scince
 data analytics
+testing
+gen ai
+aws devops
+
